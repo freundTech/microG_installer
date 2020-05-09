@@ -12,4 +12,7 @@
     </privapp-permissions>
     <privapp-permissions package="org.microg.gms.droidguard">
     </privapp-permissions>
+    <privapp-permissions package="com.android.vending">
+        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
+    </privapp-permissions>
 </permissions>
