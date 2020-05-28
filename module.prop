@@ -1,6 +1,6 @@
-id=microg_installer
+id=microg_installer_freund
 name=microG Installer (freund version)
-version=freund 1.3.0
-versionCode=13
+version=freund 0.1
+versionCode=100
 author=nift4 (prev. Hieu Van)
 description=Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app
